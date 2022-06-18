@@ -1,0 +1,1 @@
+A mimic of a dictionary app built in Java
